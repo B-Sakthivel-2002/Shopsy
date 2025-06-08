@@ -18,6 +18,10 @@ app.use('/api/v1/',products);
 app.use('/api/v1/',orders);
 app.use('/api/v1/auth', auth);
 app.use('/api/v1/wishlist', wishlistRoutes);
- app.listen(process.env.PORT,()=>{
-    console.log(`running on ${process.env.PORT}`);
- });
+//  app.listen(process.env.PORT,()=>{
+//     console.log(`running on ${process.env.PORT}`);
+//  });
+const PORT = process.env.PORT || 5000;
+app.listen(PORT, () => {
+    console.log(`Server running on port ${PORT}`);
+});
