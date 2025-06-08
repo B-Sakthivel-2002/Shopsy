@@ -10,7 +10,7 @@ const orders=require('./Routes/order');
 const auth= require('./Routes/auth');
 const wishlistRoutes = require('./Routes/wishlist');
 
-
+// mongodb+srv://Sakthivel:SAKthi@2002@cluster0.pqbirgl.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 connectDB();
 app.use(express.json());
 app.use(cors());
