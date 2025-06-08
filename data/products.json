@@ -1,0 +1,87 @@
+[
+    {
+      "name": "Apple iPhone 15 Pro Max",
+      "price": "1199",
+      "description": "Latest Apple iPhone with A17 Bionic chip and advanced camera system.",
+      "ratings": "4.8",
+      "images": [
+        { "image": "https://example.com/images/iphone15pro.jpg" }
+      ],
+      "category": "Electronics",
+      "seller": "Apple Store",
+      "stock": "50",
+      "numberofReviews": "1200",
+      "createdAt": "2024-02-22T10:00:00Z"
+    },
+    {
+      "name": "Samsung Galaxy S23 Ultra",
+      "price": "1099",
+      "description": "Flagship Samsung smartphone with a powerful camera and S-Pen support.",
+      "ratings": "4.7",
+      "images": [
+        { "image": "https://example.com/images/galaxys23ultra.jpg" }
+      ],
+      "category": "Electronics",
+      "seller": "Samsung Store",
+      "stock": "60",
+      "numberofReviews": "1100",
+      "createdAt": "2024-02-22T11:00:00Z"
+    },
+    {
+      "name": "Sony WH-1000XM5 Headphones",
+      "price": "399",
+      "description": "Industry-leading noise cancellation wireless headphones.",
+      "ratings": "4.6",
+      "images": [
+        { "image": "https://example.com/images/sonywh1000xm5.jpg" }
+      ],
+      "category": "Audio",
+      "seller": "Sony Store",
+      "stock": "75",
+      "numberofReviews": "850",
+      "createdAt": "2024-02-22T12:00:00Z"
+    },
+    {
+      "name": "Dell XPS 15 Laptop",
+      "price": "1899",
+      "description": "Powerful ultrabook with a 4K touchscreen display and Intel Core i9.",
+      "ratings": "4.5",
+      "images": [
+        { "image": "https://example.com/images/dellxps15.jpg" }
+      ],
+      "category": "Computers",
+      "seller": "Dell Official Store",
+      "stock": "30",
+      "numberofReviews": "600",
+      "createdAt": "2024-02-22T13:00:00Z"
+    },
+    {
+      "name": "Bose SoundLink Revolve+",
+      "price": "299",
+      "description": "Portable Bluetooth speaker with 360-degree sound.",
+      "ratings": "4.4",
+      "images": [
+        { "image": "https://example.com/images/boserevolveplus.jpg" }
+      ],
+      "category": "Audio",
+      "seller": "Bose Store",
+      "stock": "40",
+      "numberofReviews": "500",
+      "createdAt": "2024-02-22T14:00:00Z"
+    },
+    {
+      "name": "Nike Air Max 270",
+      "price": "150",
+      "description": "Comfortable running shoes with a modern design.",
+      "ratings": "4.7",
+      "images": [
+        { "image": "https://example.com/images/nikeairmax270.jpg" }
+      ],
+      "category": "Fashion",
+      "seller": "Nike Official Store",
+      "stock": "100",
+      "numberofReviews": "2000",
+      "createdAt": "2024-02-22T15:00:00Z"
+    }
+  ]
+  
